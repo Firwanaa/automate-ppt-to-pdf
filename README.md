@@ -1,5 +1,5 @@
 # Automation - PPT to PDF as service
-
+This script automated frequent converting ppt/pptx to pdfs.
 - In the script file, modify folder locations as needed.
 
 ## To run the script as service - one of may ways
