@@ -1,0 +1,10 @@
+[Unit]
+Description=Convert PowerPoint to PDF Service
+
+[Service]
+ExecStart=/path/to/scripts/script.sh
+Restart=always
+User=<your user>
+
+[Install]
+WantedBy=default.target
